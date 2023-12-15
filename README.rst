@@ -7,15 +7,15 @@ allergysafe_recipes
         :target: https://test.pypi.org/project/allergysafe-recipes/
 
 
-.. image:: https://readthedocs.org/projects/recipes-search/badge/?version=latest
-        :target: https://recipes-search.readthedocs.io/en/latest/?version=latest
-        :alt: Documentation Status
 
 Introduction
 --------
 
 The Allergy-Safe Recipe Explorer is a Python package designed to facilitate easy access to recipes and nutritional information, specifically catering to individuals with food allergies. This package will utilize the Spoonacular API to provide users with recipes that are safe for their specific dietary needs, offering advanced filtering, nutritional breakdowns, cost estimations, and more.
 
+Link in TestPypi
+--------
+https://test.pypi.org/project/allergysafe-recipes/
 
 
 Features
@@ -27,6 +27,7 @@ Features
 - Access price breakdowns for recipes, aiding in economical meal preparation.
 - Retrieve step-by-step instructions for cooking, making it easy to follow along.
 - Conduct ingredient-based recipe searches to find the perfect meal with what's on hand.
+
 
 Installation
 --------
